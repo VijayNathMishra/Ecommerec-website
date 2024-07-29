@@ -18,3 +18,10 @@ Technologies Used
     Python: For backend development.
     Django: A high-level Python web framework for building the server-side of the application.
     MySQL: For the database to store user and product information.
+
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+Acknowledgments
+Developed By: Vijay Nath Mishra<
